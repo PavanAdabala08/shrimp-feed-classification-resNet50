@@ -51,7 +51,8 @@ Example output:
 ## 📂 Dataset
 The dataset used for this project can be accessed from the following link:  
 👉 [Download Dataset from Google Drive (Training Dataset)](https://drive.google.com/drive/folders/1w3ag-vvUQ_NhWiookjVN-D6g00w8K22O?usp=drive_link)
-👉 [Data set for testing] (https://drive.google.com/drive/folders/1qWu6TxxlWT_BKI2uEGhJ8c0ZB7hLu4z4?usp=drive_link)
+
+👉 [Data set for testing](https://drive.google.com/drive/folders/1qWu6TxxlWT_BKI2uEGhJ8c0ZB7hLu4z4?usp=drive_link)
 ---
 
 ## 🌱 Future Enhancements
