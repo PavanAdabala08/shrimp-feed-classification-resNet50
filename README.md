@@ -37,8 +37,8 @@ Example output:
 
 | Input Image | Predicted Feed Consumption |
 |--------------|----------------------------|
-| ![input](outputs/sample_classification1.jpg) | 100% |
-| ![input](outputs/sample_classification2.jpg) | 0% |
+| ![input](outputs/sample_classification1.png) | 100% |
+| ![input](outputs/sample_classification2.png) | 0% |
 
 ---
 
